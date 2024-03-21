@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\bin\Debug\net8.0\PalindromiDumi.exe
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\bin\Debug\net8.0\PalindromiDumi.deps.json
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\bin\Debug\net8.0\PalindromiDumi.runtimeconfig.json
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\bin\Debug\net8.0\PalindromiDumi.dll
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\bin\Debug\net8.0\PalindromiDumi.pdb
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.AssemblyInfo.cs
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.dll
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\refint\PalindromiDumi.dll
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.pdb
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\PalindromiDumi.genruntimeconfig.cache
+C:\Users\User\source\repos\PalindromiDumi\PalindromiDumi\obj\Debug\net8.0\ref\PalindromiDumi.dll
